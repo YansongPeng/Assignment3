@@ -89,6 +89,10 @@ public class Calculator {
 		return result;
 	}
 	
+	/** Return the index
+	 * 
+	 * @return return the index which will be used in Test getHistory() method in CalculatorTest.java
+	 */
 	public int getIndex() {
 		return index;
 	}
